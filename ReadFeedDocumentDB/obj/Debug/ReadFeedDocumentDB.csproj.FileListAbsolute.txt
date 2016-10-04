@@ -1,0 +1,12 @@
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\ReadFeedDocumentDB.exe.config
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\ReadFeedDocumentDB.exe
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\ReadFeedDocumentDB.pdb
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\Newtonsoft.Json.dll
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\bin\Debug\Newtonsoft.Json.xml
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\obj\Debug\ReadFeedDocumentDB.csprojResolveAssemblyReference.cache
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\obj\Debug\ReadFeedDocumentDB.exe
+c:\users\brruoff\documents\visual studio 2015\Projects\ReadFeedDocumentDB\ReadFeedDocumentDB\obj\Debug\ReadFeedDocumentDB.pdb
